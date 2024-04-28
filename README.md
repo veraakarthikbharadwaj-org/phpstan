@@ -1,4 +1,4 @@
-<h1 align="center">PHPStan - PHP Static Analysis Tool</h1> try 1
+<h1 align="center">PHPStan - PHP Static Analysis Tool</h1> try 2
 
 <p align="center">
 	<img src="https://i.imgur.com/WaRKPlC.png" alt="PHPStan" width="300" height="300">
